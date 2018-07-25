@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cables | Darko Perović</title>
+    <link>https://darkoperovic.com/tags/cables/</link>
+      <atom:link href="https://darkoperovic.com/tags/cables/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cables</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jun 2018 11:30:40 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Cables</title>
+      <link>https://darkoperovic.com/tags/cables/</link>
+    </image>
+    
+    <item>
+      <title>Identification and characterization of design fires to be used in performance-based fire design of CERN facilities</title>
+      <link>https://darkoperovic.com/publication/master_thesis/</link>
+      <pubDate>Wed, 20 Jun 2018 11:30:40 +0100</pubDate>
+      <guid>https://darkoperovic.com/publication/master_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

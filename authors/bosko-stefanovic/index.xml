@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boško Stefanović | Darko Perović</title>
+    <link>https://darkoperovic.com/authors/bosko-stefanovic/</link>
+      <atom:link href="https://darkoperovic.com/authors/bosko-stefanovic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boško Stefanović</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Dec 2015 17:06:06 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Boško Stefanović</title>
+      <link>https://darkoperovic.com/authors/bosko-stefanovic/</link>
+    </image>
+    
+    <item>
+      <title>Project of 5-floor masonry building with timber roof</title>
+      <link>https://darkoperovic.com/publication/bachelor_thesis/</link>
+      <pubDate>Sat, 26 Dec 2015 17:06:06 +0100</pubDate>
+      <guid>https://darkoperovic.com/publication/bachelor_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
